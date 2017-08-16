@@ -15,7 +15,7 @@ Easy setup for appium Android and iOS on Mac machine only
 Make sure your are in AppiumSetup folder and run following command
 
   ```
-  sh android_appium_setup.sh
+  sh ./android_appium_setup.sh
   ```
   
 Edit your .bash_profile file to setup the android home
@@ -37,7 +37,7 @@ Edit your .bash_profile file to setup the android home
 Make sure your are in AppiumSetup folder and run following command
 
   ```
-  sh ios_appium_setup.sh your_system_password
+  sh ./ios_appium_setup.sh your_system_password
   ```
 Here you need to give your system password, since some of the commands need permission
   
