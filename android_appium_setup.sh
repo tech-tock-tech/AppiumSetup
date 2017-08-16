@@ -1,4 +1,5 @@
 #!/bin/bash
+npm install -g appium
 path=$($HOME)
 echo $path
 cd $path
