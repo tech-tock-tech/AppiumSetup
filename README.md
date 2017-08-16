@@ -3,7 +3,7 @@ Easy setup for appium Android and iOS on Mac machine only
 
 # Setup
   ```
-  git clone git@github.com:mgmanikandan87/AppiumSetup.git
+  git clone git@github.com:tech-tock-tech/AppiumSetup.git
   cd AppiumSetup
   ```
 # Appium Android Installation
