@@ -9,6 +9,7 @@ Easy setup for appium Android and iOS on Mac machine only
 # Appium Android Installation
 
 ## Pre-reqiestise
+    - Install brew
     - Java JDK should be installed and set the JAVA_HOME path
     - Latest node.js should be installed in your machine
     
@@ -31,6 +32,7 @@ Edit your .bash_profile file to setup the android home
 # Appium iOS Installation
 
 ## Pre-reqiestise
+    - Install brew
     - Xcode should be installed in your machine
     - Latest node.js should be installed in your machine
     
